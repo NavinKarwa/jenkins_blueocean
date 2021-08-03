@@ -1,0 +1,14 @@
+
+# Project Files
+*.log
+/allure-results/
+/.allure/
+
+#Intelij files
+/BaseTAF.iml
+/.idea/
+
+#Gradle Files
+/build/
+/.gradle/
+/out/
